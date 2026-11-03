@@ -1,0 +1,37 @@
+name: Report an error
+description: Tell The Observer about an error of fact in a published post.
+title: "Error: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections of fact are decided by the curator, checked against the archived sources, dated at the end of the post and listed on the [corrections log](https://oculussupra.org/record/#corrections). Thank you for helping keep the record straight.
+  - type: input
+    id: post
+    attributes:
+      label: Post
+      description: The address of the post.
+      placeholder: https://oculussupra.org/signals/s-001-…/
+    validations:
+      required: true
+  - type: textarea
+    id: sentence
+    attributes:
+      label: The sentence
+      description: Copy the sentence, label or number that is wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: What is correct
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A link to the primary source that shows the correct fact.
+    validations:
+      required: true

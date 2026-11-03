@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report an error by email
+    url: mailto:kemal.ilter@bakircay.edu.tr
+    about: For reports you would rather not make in public.
