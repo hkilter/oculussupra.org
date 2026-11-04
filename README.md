@@ -6,7 +6,8 @@ Everything here is built automatically from a private workshop and replaced on e
 
 - **Report an error.** Use the [*Report an error*](../../issues/new?template=report-an-error.yml) form. Every report is checked against the archived sources, and every correction of fact is listed on the [corrections log](https://oculussupra.org/record/#corrections).
 - **Follow the series.** Use *Watch → Custom → Releases* on this repository, or the [Atom](https://oculussupra.org/feed.xml) or [JSON](https://oculussupra.org/feed.json) feed.
-- **Discuss a post.** Use the discussion under each post.
+
+The posts and their visuals are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); quoted material and third-party sources remain under their own terms.
 
 How the series works, including how forecasts are scored and how much the machines decide on their own, is set out in the [charter](https://oculussupra.org/charter/).
 

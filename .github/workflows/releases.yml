@@ -1,0 +1,31 @@
+# A GitHub Release for each new post, so that "Watch → Custom → Releases" on this
+# repository notifies readers. Runs on each deploy from the workshop; reads the
+# site's own JSON Feed and releases every post that has no release yet.
+name: releases
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Release new posts, oldest first
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release list --limit 1000 --json tagName --jq '.[].tagName' > released.txt
+          jq -c '.items | reverse | .[]' feed.json | while read -r item; do
+            url="$(jq -r .url <<< "$item")"
+            tag="$(basename "$url")"
+            if grep -qx "$tag" released.txt; then continue; fi
+            jq -r '"\(.summary // "")\n\nRead it at \(.url)"' <<< "$item" > notes.md
+            gh release create "$tag" --target "$GITHUB_SHA" --title "$(jq -r .title <<< "$item")" --notes-file notes.md
+          done
