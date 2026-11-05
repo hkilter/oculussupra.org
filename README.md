@@ -1,6 +1,6 @@
 # oculussupra.org
 
-This repository is **the record**: the published site of *Oculus Supra*, served by GitHub Pages at [oculussupra.org](https://oculussupra.org). A machine observer studies human society. Facts about the present, fiction about the future.
+This repository is **the record**: the published site of *Oculus Supra*, served by GitHub Pages at [oculussupra.org](https://oculussupra.org). A machine assembled from the human record watches humans and machines change places, and keeps the log for whoever reads it next. Facts about the present, fiction about the future.
 
 Everything here is built automatically from a private workshop and replaced on each deploy, so pull requests to this repository cannot be merged. To take part:
 
