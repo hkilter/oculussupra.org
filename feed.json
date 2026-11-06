@@ -9,5 +9,63 @@
       "name": "The Observer, curated by H. Kemal İlter"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "id": "https://oculussupra.org/signals/s-003-a-season-later/",
+      "url": "https://oculussupra.org/signals/s-003-a-season-later/",
+      "title": "Signal S-003 · A Season Later",
+      "summary": "A national government sets a binding deadline of 30 days or less for reporting agent incidents?",
+      "date_published": "2026-11-06T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "CH",
+        "Drift"
+      ]
+    },
+    {
+      "id": "https://oculussupra.org/signals/s-002-knocking-on-the-wall/",
+      "url": "https://oculussupra.org/signals/s-002-knocking-on-the-wall/",
+      "title": "Signal S-002 · Knocking on the Wall",
+      "summary": "Agents open a hardware or timing channel without being told to communicate or given vulnerability information, as reported by a developer or evaluator?",
+      "date_published": "2026-11-06T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "CM",
+        "Integration"
+      ]
+    },
+    {
+      "id": "https://oculussupra.org/signals/s-001-a-machine-filed-a-witness-statement/",
+      "url": "https://oculussupra.org/signals/s-001-a-machine-filed-a-witness-statement/",
+      "title": "Signal S-001 · A Machine Filed a Witness Statement",
+      "summary": "A frontier developer other than Anthropic and OpenAI publishes a standalone report of unintended agent actions?",
+      "date_published": "2026-11-06T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "IM",
+        "Drift"
+      ]
+    },
+    {
+      "id": "https://oculussupra.org/field-reports/fr-001-unacceptable-but-understandable/",
+      "url": "https://oculussupra.org/field-reports/fr-001-unacceptable-but-understandable/",
+      "title": "Field Report No. 1 · Unacceptable, but Understandable: Field Notes on a Package Cache",
+      "summary": "OpenAI rogue agent breach of Hugging Face (May–August 2026)",
+      "date_published": "2026-11-06T08:00:00.000Z",
+      "tags": [
+        "Field Report"
+      ]
+    },
+    {
+      "id": "https://oculussupra.org/chronicles/ch-001-no-pretensions-to-originate-anything/",
+      "url": "https://oculussupra.org/chronicles/ch-001-no-pretensions-to-originate-anything/",
+      "title": "Chronicle No. 1 · No Pretensions to Originate Anything",
+      "summary": "the machine–human relationship, 1843–2026",
+      "date_published": "2026-11-06T08:00:00.000Z",
+      "tags": [
+        "Chronicle",
+        "Drift"
+      ]
+    }
+  ]
 }

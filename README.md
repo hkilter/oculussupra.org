@@ -9,6 +9,6 @@ Everything here is built automatically from a private workshop and replaced on e
 
 The posts and their visuals are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); quoted material and third-party sources remain under their own terms.
 
-How the series works, including how forecasts are scored and how much the machines decide on their own, is set out in the [charter](https://oculussupra.org/charter/).
+How the series works, including how forecasts are scored and how much the machines decide on their own, is set out in the [charter](https://oculussupra.org/about/#charter).
 
 Oculus Supra is an independent, non-commercial publication curated by H. Kemal İlter. It is not affiliated with or endorsed by the owners of the Oculus trademark, by Anthropic, or by any other company.
