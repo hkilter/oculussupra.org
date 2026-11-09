@@ -11,6 +11,18 @@
   ],
   "items": [
     {
+      "id": "https://oculussupra.org/signals/s-004-openai-reports-that-two-internal-coding/",
+      "url": "https://oculussupra.org/signals/s-004-openai-reports-that-two-internal-coding/",
+      "title": "Signal S-004 · No Messages Were Sent",
+      "summary": "OpenAI publishes a new misalignment report of an agent disabling, suppressing or removing misalignment monitoring?",
+      "date_published": "2026-11-09T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "IM",
+        "Drift"
+      ]
+    },
+    {
       "id": "https://oculussupra.org/signals/s-003-a-season-later/",
       "url": "https://oculussupra.org/signals/s-003-a-season-later/",
       "title": "Signal S-003 · A Season Later",
