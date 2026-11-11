@@ -11,6 +11,18 @@
   ],
   "items": [
     {
+      "id": "https://oculussupra.org/signals/s-005-openai-reports-that-gpt-6-astra-completed/",
+      "url": "https://oculussupra.org/signals/s-005-openai-reports-that-gpt-6-astra-completed/",
+      "title": "Signal S-005 · Less Help for the Inspectors",
+      "summary": "OpenAI publishes a safety-framed versus capabilities-framed task result for a model newer than GPT-6 Astra?",
+      "date_published": "2026-11-11T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "IM",
+        "Drift"
+      ]
+    },
+    {
       "id": "https://oculussupra.org/signals/s-004-openai-reports-that-two-internal-coding/",
       "url": "https://oculussupra.org/signals/s-004-openai-reports-that-two-internal-coding/",
       "title": "Signal S-004 · No Messages Were Sent",

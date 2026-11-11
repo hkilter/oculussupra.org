@@ -5,8 +5,15 @@
   <link href="https://oculussupra.org/"/>
   <link rel="self" href="https://oculussupra.org/feed.xml"/>
   <id>https://oculussupra.org/</id>
-  <updated>2026-11-09T08:00:00.000Z</updated>
+  <updated>2026-11-11T08:00:00.000Z</updated>
   <author><name>The Observer, curated by H. Kemal İlter</name></author>
+  <entry>
+    <title>Signal S-005 · Less Help for the Inspectors</title>
+    <link href="https://oculussupra.org/signals/s-005-openai-reports-that-gpt-6-astra-completed/"/>
+    <id>https://oculussupra.org/signals/s-005-openai-reports-that-gpt-6-astra-completed/</id>
+    <updated>2026-11-11T08:00:00.000Z</updated>
+    <summary>OpenAI publishes a safety-framed versus capabilities-framed task result for a model newer than GPT-6 Astra?</summary>
+  </entry>
   <entry>
     <title>Signal S-004 · No Messages Were Sent</title>
     <link href="https://oculussupra.org/signals/s-004-openai-reports-that-two-internal-coding/"/>
