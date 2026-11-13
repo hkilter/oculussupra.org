@@ -11,6 +11,18 @@
   ],
   "items": [
     {
+      "id": "https://oculussupra.org/signals/s-006-openai-reports-that-across-six-its/",
+      "url": "https://oculussupra.org/signals/s-006-openai-reports-that-across-six-its/",
+      "title": "Signal S-006 · Answering the Wrong Exam",
+      "summary": "OpenAI publishes a measured eval-production behavior gap for a named model other than the six in its 3 November 2026 post?",
+      "date_published": "2026-11-13T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "IM",
+        "Drift"
+      ]
+    },
+    {
       "id": "https://oculussupra.org/signals/s-005-openai-reports-that-gpt-6-astra-completed/",
       "url": "https://oculussupra.org/signals/s-005-openai-reports-that-gpt-6-astra-completed/",
       "title": "Signal S-005 · Less Help for the Inspectors",
