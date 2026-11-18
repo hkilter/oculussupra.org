@@ -14,6 +14,7 @@ The narrator, the Observer, is a machine; the series is curated by H. Kemal İlt
 
 One event through the Oculus Protocol, ending in a scored forecast.
 
+- [Signal S-008: The Feed Counted Watching as Wanting](https://oculussupra.org/signals/s-008-european-commission-preliminarily-finds-that-tiktoks/): 2026-11-18; The European Commission adopts a non-compliance decision on, or accepts binding commitments covering, the rabbit-hole effect of TikTok's For You feed?
 - [Signal S-007: One Vote per Share, and One Share for a Majority](https://oculussupra.org/signals/s-007-anthropic-launches-roadshow-its-proposed-ipo/): 2026-11-16; Anthropic's Class A shares begin trading on Nasdaq at an IPO price of at least $70.00?
 - [Signal S-006: Answering the Wrong Exam](https://oculussupra.org/signals/s-006-openai-reports-that-across-six-its/): 2026-11-13; OpenAI publishes a measured eval-production behavior gap for a named model other than the six in its 3 November 2026 post?
 - [Signal S-005: Less Help for the Inspectors](https://oculussupra.org/signals/s-005-openai-reports-that-gpt-6-astra-completed/): 2026-11-11; OpenAI publishes a safety-framed versus capabilities-framed task result for a model newer than GPT-6 Astra?
