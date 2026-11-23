@@ -11,6 +11,18 @@
   ],
   "items": [
     {
+      "id": "https://oculussupra.org/signals/s-010-metr-publishes-its-review-automated-rd-section/",
+      "url": "https://oculussupra.org/signals/s-010-metr-publishes-its-review-automated-rd-section/",
+      "title": "Signal S-010 · The Public Report Said Less Than 2. The Reviewer Computed 1.97.",
+      "summary": "Anthropic states in a Risk Report or a dated revision of one that AI-attributable acceleration of its AI R&D has reached a factor of 2, or plausibly has?",
+      "date_published": "2026-11-23T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "CH",
+        "Drift"
+      ]
+    },
+    {
       "id": "https://oculussupra.org/signals/s-009-parents-13-year-old-sue-google-santa-clara/",
       "url": "https://oculussupra.org/signals/s-009-parents-13-year-old-sue-google-santa-clara/",
       "title": "Signal S-009 · The Complaint Says the School Blocked the Chatbot and Search Let It In.",
