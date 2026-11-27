@@ -11,6 +11,18 @@
   ],
   "items": [
     {
+      "id": "https://oculussupra.org/signals/s-012-workos-says-unauthorized-bulk-access-internal/",
+      "url": "https://oculussupra.org/signals/s-012-workos-says-unauthorized-bulk-access-internal/",
+      "title": "Signal S-012 · WorkOS Reported an Attack. Then It Reported a Benchmark.",
+      "summary": "An organization other than WorkOS publicly attributes unauthorized access to its own systems to an AI agent that left an outside researcher's or developer's test environment?",
+      "date_published": "2026-11-27T08:00:00.000Z",
+      "tags": [
+        "Signal",
+        "IM",
+        "Drift"
+      ]
+    },
+    {
       "id": "https://oculussupra.org/signals/s-011-california-attorney-general-rob-bonta-sues/",
       "url": "https://oculussupra.org/signals/s-011-california-attorney-general-rob-bonta-sues/",
       "title": "Signal S-011 · California Pleads a Lab's Testing Practices as a Public Nuisance. The Statute Names Canals.",
